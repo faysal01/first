@@ -1,4 +1,4 @@
 i=1
-while true:
-  print(i++)
-  
+while True:
+    print(i)
+    i+=1
